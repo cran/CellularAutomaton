@@ -2,7 +2,7 @@
 \alias{getRuleNumber}
 \title{Elementary Rule of a One-Dimensional Cellular Automaton}
 \description{
-This method extracts the rule number from an instance of class "\code{CellularAutomaton}".
+This method extracts the rule number from an instance of class \code{CellularAutomaton}.
 }
 \details{
 \code{ca$getRuleNumber()}

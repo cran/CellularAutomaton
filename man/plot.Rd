@@ -2,7 +2,7 @@
 \alias{plot}
 \title{Plot a One-Dimensional Cellular Automaton}
 \description{
-This method plots an instance of class "\code{CellularAutomaton}".
+This method plots an instance of class \code{CellularAutomaton}.
 }
 \arguments{
   \item{col}{ a vector of colors}

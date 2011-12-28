@@ -2,7 +2,7 @@
 \alias{getNumberOfColors}
 \title{Number of Colors of a One-Dimensional Cellular Automaton}
 \description{
-This method extracts the number of colors from an instance of class "\code{CellularAutomaton}".
+This method extracts the number of colors from an instance of class \code{CellularAutomaton}.
 }
 \details{
 \code{ca$getNumberOfColors()}

@@ -2,11 +2,11 @@
 \alias{CellularAutomaton}
 \title{Constructor for Class CellularAutomaton}
 \description{
-This method instantiates class "\code{CellularAutomaton}".
+This method instantiates class \code{CellularAutomaton}.
 }
 \usage{
-ca = CellularAutomaton(n = 30, fun = NULL, k = 2, r = 1, t = 1,
-                       totalistic = 0, seed = 1, bg = 0)
+CellularAutomaton(n = 30, fun = NULL, k = 2, r = 1, t = 1,
+                  totalistic = 0, seed = 1, bg = 0)
 }
 \arguments{
   \item{n}{ This is the elementary rule number for the automaton. }
@@ -19,7 +19,7 @@ ca = CellularAutomaton(n = 30, fun = NULL, k = 2, r = 1, t = 1,
   \item{bg}{ This is the background upon which to place the seed. }
 }
 \value{
-  This method returns an instance of class "\code{CellularAutomaton}", provided the arguments make sense.
+  This method returns an instance of class \code{CellularAutomaton}, provided the arguments make sense.
 }
 \references{ http://reference.wolfram.com/mathematica/tutorial/CellularAutomata.html }
 \examples{

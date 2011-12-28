@@ -2,7 +2,7 @@
 \alias{getSteps.CellularAutomaton}
 \title{Number of Steps of a One-Dimensional Cellular Automaton}
 \description{
-This method extracts the number of steps (generations) from an instance of class "\code{CellularAutomaton}".
+This method extracts the number of steps (generations) from an instance of class \code{CellularAutomaton}.
 }
 \details{
 \code{ca$getSteps()}

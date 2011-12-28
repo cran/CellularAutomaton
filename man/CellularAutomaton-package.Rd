@@ -11,15 +11,15 @@ This package is an object-oriented implementation of one-dimensional cellular au
 \tabular{ll}{
 Package: \tab CellularAutomaton\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2007-11-16\cr
+Version: \tab 1.1\cr
+Date: \tab 2011-12-28\cr
 License: \tab GPL\cr
 }
 }
 \author{
 John Hughes
 
-Maintainer: John Hughes <jph264@psu.edu>
+Maintainer: John Hughes <hughesj@umn.edu>
 }
 \references{
 http://reference.wolfram.com/mathematica/tutorial/CellularAutomata.html

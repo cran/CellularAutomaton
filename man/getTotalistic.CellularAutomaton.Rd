@@ -2,7 +2,7 @@
 \alias{getTotalistic.CellularAutomaton}
 \title{Totalistic of a One-Dimensional Cellular Automaton}
 \description{
-This method extracts the setting of totalistic from an instance of class "\code{CellularAutomaton}".
+This method extracts the setting of totalistic from an instance of class \code{CellularAutomaton}.
 }
 \details{
 \code{ca$getTotalistic()}

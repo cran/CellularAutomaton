@@ -2,7 +2,7 @@
 \alias{getLattice}
 \title{Lattice of Cells of a One-Dimensional Cellular Automaton}
 \description{
-This method extracts the matrix of cells from an instance of class "\code{CellularAutomaton}".
+This method extracts the matrix of cells from an instance of class \code{CellularAutomaton}.
 }
 \details{
 \code{ca$getLattice()}
